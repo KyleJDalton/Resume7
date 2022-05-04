@@ -76,6 +76,11 @@ a:visited{
 .skills{
 list-style-type: none;
 }
+
+.nav-name{
+    color:#EEEEEE
+}
+
 #headshot1{
     display: block;
     margin-left:auto;
@@ -143,4 +148,7 @@ list-style-type: none;
 
 #contact-page{
     padding: 20px;
+}
+#language-heading{
+    color: #EEEEEE;
 }
