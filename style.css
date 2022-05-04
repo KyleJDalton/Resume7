@@ -98,7 +98,8 @@ list-style-type: none;
     
 }
 #sidebar{
-    background-color:#9D9D9D;
+    background:#9D9D9D url(/Images/coding-wallpaper.jpg);
+    background: 3;
     padding:2rem;
     width:6rem;
     
