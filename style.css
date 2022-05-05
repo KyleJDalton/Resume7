@@ -42,6 +42,7 @@ main{
     display: flex;
     flex-direction: row;
     overflow: unset;
+    background-image: url(./Images/geometry-wallpaper.jpg);
 }
 
 
@@ -97,13 +98,19 @@ list-style-type: none;
     
 }
 
+#heading{
+    background-image: url(./Images/geomety-wallpaper2.jpg);
+    
+}
+
 
 #contact{
     color: #EEEEEE;
+    background-image: url(./Images/geomety-wallpaper2.jpg);
     
 }
 #sidebar{
-    background:#9D9D9D url(/Images/coding-wallpaper.jpg);
+    background:#9D9D9D url(./Images/geomety-wallpaper2.jpg);
     background: 3;
     padding:2rem;
     width:6rem;
